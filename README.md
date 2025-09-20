@@ -41,28 +41,51 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+We propose SmartCropAid - a platform set up on rules and machinery.
+
+Detailed Explanation
+
+Farmers give background information on how big their patch 1 is, what kind of planting and what kind of ground types there are. Employing weather APIs, soil maps and agronomic principles, the system customizes instructions. AI models decide yield potential, pest and disease risk levels, and need for irrigation. Advice goes out via a mobile app, SMS, or IVR in the farmer's local language. A feedback mechanism makes it possible for farmers to report whether an advice has been helpful. This makes the system more accurate over time.
+
+How It Addresses the Problem
+
+Under SmartCropAid, farmers no longer have to worry about relying on hearsay from shopkeepers outside the bank. They obtain tailor-made action points local to themselves. Furthermore, it accommodates non-smartphone users by way of alternative modes of communication
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+Farmer registers via SMS/App → system stores profile.
+
+Backend fetches weather + soil data for location.
+
+Rule engine + ML generate advisory (crop choice, irrigation, fertilizer, alerts).
+
+Notification layer sends advice → Farmer receives SMS/App message/IVR call.
+
+Farmer feedback (e.g., reply code “1” for useful, “0” for not useful).
+
+Feedback updates dataset → ML retrains gradually.
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+Feasibility: Mobile penetration in rural India is >70%. Most farmers can access SMS or voice services. Initial pilot can run with district-level soil data and public weather APIs.
+
+Viability: Once scaled, state governments, NGOs, and cooperatives can sponsor rollouts. Cost per farmer is minimal once platform is built.
+
+
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+Balanced fertilizer use prevents soil degradation.
+Reduced chemical pesticide reliance protects ecosystems.
+Water conservation via optimized irrigation scheduling.
+
+
+
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+NABARD All India Rural Financial Inclusion Survey (2022).
+
+FAO Digital Agriculture Transformation report (2021).
+
+ICAR crop calendar and soil health card datasets.
+
+OpenWeatherMap and IMD weather APIs for real-time weather data.
+
+Academic papers on ICT-based farmer advisory (Elsevier, Springer).

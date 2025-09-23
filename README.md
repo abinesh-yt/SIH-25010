@@ -51,6 +51,12 @@ How It Addresses the Problem
 
 Under SmartCropAid, farmers no longer have to worry about relying on hearsay from shopkeepers outside the bank. They obtain tailor-made action points local to themselves. Furthermore, it accommodates non-smartphone users by way of alternative modes of communication
 
+
+<img width="818" height="920" alt="flowchart" src="https://github.com/user-attachments/assets/075f80a2-e650-49ec-9599-bf91a04f0168" />
+
+
+
+
 ## Technical Approach
 Farmer registers via SMS/App → system stores profile.
 
@@ -76,7 +82,6 @@ Balanced fertilizer use prevents soil degradation.
 Reduced chemical pesticide reliance protects ecosystems.
 Water conservation via optimized irrigation scheduling.
 
-<img width="818" height="920" alt="flowchart" src="https://github.com/user-attachments/assets/688ba17b-8715-49cd-96f2-328f6921f18d" />
 
 
 

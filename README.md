@@ -52,7 +52,7 @@ How It Addresses the Problem
 Under SmartCropAid, farmers no longer have to worry about relying on hearsay from shopkeepers outside the bank. They obtain tailor-made action points local to themselves. Furthermore, it accommodates non-smartphone users by way of alternative modes of communication
 
 
-<img width="474" height="868" alt="Screenshot 2025-09-23 083209" src="https://github.com/user-attachments/assets/42f49c2d-ae2f-45a8-abe4-d1eceb0811ae" />
+  <img width="474" height="868" alt="Screenshot 2025-09-23 083209" src="https://github.com/user-attachments/assets/42f49c2d-ae2f-45a8-abe4-d1eceb0811ae" />
 
 
 

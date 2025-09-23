@@ -76,6 +76,7 @@ Balanced fertilizer use prevents soil degradation.
 Reduced chemical pesticide reliance protects ecosystems.
 Water conservation via optimized irrigation scheduling.
 
+<img width="818" height="920" alt="flowchart" src="https://github.com/user-attachments/assets/688ba17b-8715-49cd-96f2-328f6921f18d" />
 
 
 
